@@ -882,12 +882,12 @@
   dependencies:
     source-map "^0.6.1"
 
-"@types/vuelidate@^0.7.9":
-  version "0.7.9"
-  resolved "https://registry.yarnpkg.com/@types/vuelidate/-/vuelidate-0.7.9.tgz#3c607aa9309aa7efa32dbe965dc7611a8a166bfd"
-  integrity sha512-vMTgFGA6OEseAJVYIDI145dqMt1/xPYEzEai2TtvR4bwVHnV2K4TZvIB/eusmhkTw0obqB/irTZ57flU9IwCVQ==
+"@types/vuelidate@^0.7.13":
+  version "0.7.13"
+  resolved "https://registry.yarnpkg.com/@types/vuelidate/-/vuelidate-0.7.13.tgz#6e7249e1d6b72b3aed14f4439a082e14662c485e"
+  integrity sha512-CFyaS5yov3HjwoZrQyehiE1cNkyuN0/EDQfpeneWQFC9onJ0ieQL6dgFxN6zzPMHDZ87If3UH9WcgkPB4vbcoQ==
   dependencies:
-    vue "^2.5.16"
+    vue "^2.6.11"
 
 "@types/webpack-env@^1.13.9":
   version "1.14.1"
@@ -10405,10 +10405,10 @@ vue-toastification@^0.5.2:
     perfect-scrollbar "^1.4.0"
     postcss-import "^12.0.0"
 
-vue@^2.5.16, vue@^2.6.10:
-  version "2.6.10"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
-  integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
+vue@^2.5.16, vue@^2.6.10, vue@^2.6.11:
+  version "2.6.11"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
+  integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==
 
 vuejs-paginate@^2.1.0:
   version "2.1.0"
