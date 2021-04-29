@@ -1,0 +1,31 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: vue-i18n
+    versions:
+    - 8.22.4
+    - 8.23.0
+    - 8.24.0
+    - 8.24.1
+    - 8.24.2
+    - 8.24.3
+  - dependency-name: "@types/socket.io-client"
+    versions:
+    - 1.4.35
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
+  - dependency-name: "@types/vuelidate"
+    versions:
+    - 0.7.13
+  - dependency-name: jquery
+    versions:
+    - 3.5.1
+  - dependency-name: handlebars
+    versions:
+    - 4.7.6
