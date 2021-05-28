@@ -28,7 +28,7 @@
     "vue-property-decorator": "^8.1.0",
     "vue-router": "^3.0.3",
     "vue-spinner": "^1.0.3",
-    "vue-sweetalert2": "^2.1.5",
+    "vue-sweetalert2": "^4.3.1",
     "vue-toastification": "^0.5.2",
     "vue2-perfect-scrollbar": "https://github.com/tMathaiou/vue2-perfect-scrollbar",
     "vuejs-paginate": "^2.1.0",
